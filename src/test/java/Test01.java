@@ -3,5 +3,6 @@ public class Test01 {
         System.out.println("你是三相琴01");
         System.out.println("你是三相琴02");
         System.out.println("芜湖哈哈");
+        System.out.println("代码合并冲突");
     }
 }
