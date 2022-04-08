@@ -5,5 +5,6 @@ public class Test01 {
         System.out.println("芜湖哈哈");
         System.out.println("我也开启代码合并冲突");
         System.out.println("代码合并冲突");
+        System.out.println("芜湖1");
     }
 }
